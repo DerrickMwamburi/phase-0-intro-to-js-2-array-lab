@@ -1,1 +1,2 @@
-// Write your solution here!
+// index.js
+const cats = ["Milo", "Otis", "Garfield"];
